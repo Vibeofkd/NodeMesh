@@ -78,9 +78,9 @@ All changes must include tests and maintain execution consistency.
 
 🗺 Roadmap
 
-Phase 1: Core orchestration node
-Phase 2: Multi-service workflows
-Phase 3: Distributed processing & scaling
+- Phase 1: Core orchestration node
+- Phase 2: Multi-service workflows
+- Phase 3: Distributed processing & scaling
 
 📄 License
 
